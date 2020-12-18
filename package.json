@@ -1,0 +1,19 @@
+{
+  "name": "cc_html",
+  "version": "1.0.0",
+  "description": "Common components implemented through HTML CSS JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrxugithub/CC_HTML.git"
+  },
+  "author": "franco_lrxu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrxugithub/CC_HTML/issues"
+  },
+  "homepage": "https://github.com/lrxugithub/CC_HTML#readme"
+}
